@@ -7,6 +7,8 @@
 
 Full stack developer with experience using Node/Express, MonogoDB, React and React Native to build web and mobile applications.
 
+Fueled by a passion for creation and progression, I am eager to learn the latest technologies through continued coursework and professional development.
+
 ---
 
 🧰 Skills
