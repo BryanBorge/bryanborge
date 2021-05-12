@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Full stack developer with experience using Node/Express, MonogoDB, React and React Native to build web and mobile applications.
+
+
 <!--
 **BryanBorge/bryanborge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
