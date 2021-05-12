@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">, I am Bryan Borgesano. 
+
+---
 
 Full stack developer with experience using Node/Express, MonogoDB, React and React Native to build web and mobile applications.
 
+--- 
 
+## Skills
 <!--
 **BryanBorge/bryanborge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
