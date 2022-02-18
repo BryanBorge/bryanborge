@@ -5,7 +5,7 @@
 
 ---
 
-Full stack developer with experience using Node/Express, MongoDB, React and React Native to build web and mobile applications.
+Full stack developer with a current focus in builiding highly configurable and responsive software with C# and React. 
 
 Fueled by a passion for creation and progression, I am eager to learn the latest technologies through continued coursework and professional development.
 
