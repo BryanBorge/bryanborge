@@ -1,4 +1,4 @@
-### Hi there <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">, I am Bryan Borgesano. 
+### Hi, I am Bryan Borgesano. 
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" /> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-martin-software-engineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/Bryan-borgesano?trk=profile-badge">Bryan Borgesano</a></div>
