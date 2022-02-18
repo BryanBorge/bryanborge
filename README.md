@@ -1,11 +1,10 @@
-### Hi, I am Bryan Borgesano. 
+### Hi, my name is Bryan Borgesano. 
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" /> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-martin-software-engineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/Bryan-borgesano?trk=profile-badge">Bryan Borgesano</a></div>
 
 ---
-
-Full stack developer with a current focus in builiding highly configurable and responsive software with C# and React. 
+I'm a software developer specializing in building responsive web based experiences. Currently, I'm focused on building highly configurable and robust software with C# and React. 
 
 Fueled by a passion for creation and progression, I am eager to learn the latest technologies through continued coursework and professional development.
 
